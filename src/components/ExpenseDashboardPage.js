@@ -7,8 +7,6 @@ const ExpenseDashboardPage = () =>(
     <div>
         <ExpenseListFilters />
         <ExpenseList />
-        <div>Random</div>
-        
         <ExpenseListItem />
 
     </div>
