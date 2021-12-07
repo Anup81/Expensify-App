@@ -21,7 +21,7 @@ store.dispatch(setTextFilter('bill'))
 
 
 setTimeout(()=>{
-    store.dispatch(setTextFilter(' Bill')) 
+    store.dispatch(setTextFilter('Electricity Bill')) 
 }, 3000)
 
 
